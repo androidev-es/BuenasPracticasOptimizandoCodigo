@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">BuenasPracticasOptimizandoCodigo</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="save">SAVE</string>
+    <string name="clean_form">Clean form</string>
+    <string name="show_result_here">Show result here</string>
 </resources>
